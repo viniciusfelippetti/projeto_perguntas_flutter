@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Projeto em flutter de perguntas e respostas. Com resultado personalizado de acordo com o número de acertos.
 
 ## Getting Started
 

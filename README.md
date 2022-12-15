@@ -1,4 +1,4 @@
-# projeto_perguntas
+# App Perguntas
 
 Projeto em flutter de perguntas e respostas. Com resultado personalizado de acordo com o número de acertos.
 
